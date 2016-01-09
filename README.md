@@ -1,6 +1,6 @@
 # python-IDLE-themes
 # This is a collection of themes for python IDLE
-The python file included in the screenshots is a hash ID tool
+The file included in the screenshots is just a hash ID tool I found teh internets
 
 
 ## Inverted python theme: 
@@ -27,3 +27,10 @@ The python file included in the screenshots is a hash ID tool
 ## Tango 
 
 ![Tango ](https://u.pomf.is/ontnxp.png)
+#####The following two came from here ughh :http://ubuntuforums.org/showthread.php?t=2200281
+##Codeacademy UI
+
+![CodeacademyUI](https://u.pomf.is/krnpgx.png)
+##CodeIt
+
+![codeit](https://u.pomf.is/zzvmtn.png)

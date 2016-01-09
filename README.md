@@ -5,7 +5,7 @@ The file included in the screenshots is just a hash ID tool I found teh internet
 
 ## Inverted python theme: 
 
-![default theme](https://share.riseup.net/#SwNQd3Vsxtxot9V59GDsHQ)
+![default theme](blob:https://share.riseup.net/d5ae1b50-0929-4938-8652-5066bc944159)
 ## Solarized Dark 
 
 ![Solarized Dark](https://u.pomf.is/ieamgu.png)

@@ -5,32 +5,32 @@ The file included in the screenshots is just a hash ID tool I found teh internet
 
 ## Inverted python theme: 
 
-![default theme](blob:https://share.riseup.net/d5ae1b50-0929-4938-8652-5066bc944159)
+![default theme](https://diasp.org/uploads/images/scaled_full_6c76188dcd803c019ad9.png)
 ## Solarized Dark 
 
-![Solarized Dark](https://u.pomf.is/ieamgu.png)
+![Solarized Dark](https://diasp.org/uploads/images/scaled_full_5fd90e2afa6f9f4ba7f3.png)
 ## Solarized Light 
 
-![Solarized Light](https://u.pomf.is/hpvmty.png)
+![Solarized Light](https://diasp.org/uploads/images/scaled_full_57f05749c2c38f5e6b18.png)
 ## Desert 
 
-![Desert ](https://u.pomf.is/zpigzo.png)
+![Desert ](https://diasp.org/uploads/images/scaled_full_3c44abc0d9ac95328e39.png)
 ## Monokai 
 
-![Monokai ](https://u.pomf.is/ejfvjf.png)
+![Monokai ](https://diasp.org/uploads/images/scaled_full_389c203ed9205466cd4d.png)
 ## Matrix 
 
-![Matrix ](https://u.pomf.is/fehosr.png)
+![Matrix ](https://diasp.org/uploads/images/scaled_full_bb79ee06b7830d930322.png)
 ## Obsidion 
 
-![Obsidion ](https://u.pomf.is/znhrxy.png)
+![Obsidion ](https://diasp.org/uploads/images/scaled_full_809a6370b3974b5d2134.png)
 ## Tango 
 
-![Tango ](https://u.pomf.is/ontnxp.png)
+![Tango ](https://diasp.org/uploads/images/scaled_full_be8f156e2dd9827731a7.png)
 #####The following two came from here ughh :http://ubuntuforums.org/showthread.php?t=2200281
 ##Codeacademy UI
 
-![CodeacademyUI](https://u.pomf.is/krnpgx.png)
+![CodeacademyUI](https://diasp.org/uploads/images/scaled_full_eb23035914427e647a9f.png)
 ##CodeIt
 
-![codeit](https://u.pomf.is/zzvmtn.png)
+![codeit](https://diasp.org/uploads/images/scaled_full_d1619d393a7e08a486e4.png)

@@ -34,3 +34,7 @@ The file included in the screenshots is just a hash ID tool I found teh internet
 ##CodeIt
 
 ![codeit](https://diasp.org/uploads/images/scaled_full_d1619d393a7e08a486e4.png)
+#####The following theme was designed by Swarnkar Rajesh (rjs.swarnka@gmail.com)
+##UbuntuLike Theme
+
+![UbuntuLike](https://diasp.org/uploads/images/scaled_full_4b2bfbac4d70f5558a6b.png)
